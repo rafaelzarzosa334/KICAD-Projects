@@ -73,8 +73,8 @@ The supply provides stable, low-noise positive and negative voltage rails requir
 - KiCad Project (`kicad Project 9.0`)  
 - KiCad schematic (`kicad Schematic 9.0`)  
 - PCB layout (`KiCad Board 9.0`)  
-- Fabrication files (Gerbers)  
-- Board renderings and layout images  
+- Fabrication files (`Gerber`)  
+- Board rendering (`.png`)  
 
 ---
 
